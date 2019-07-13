@@ -3,7 +3,7 @@
 /**
  * static files (404.html, sw.js, conf.js)
  */
-const ASSET_URL = 'https://xrichardp.github.io/jsproxy/index.html'
+const ASSET_URL = 'https://xrichardp.github.io'
 
 const JS_VER = 7
 const MAX_RETRY = 1
